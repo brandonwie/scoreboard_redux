@@ -5,6 +5,10 @@
 
 > A simple scoreboard app that tracks total users, scores, has stopwatch function and contains user status such as dates created and updated.
 
+## Screenshot
+
+<img src="screenshot/scoreboard.png">
+
 ## React / Redux
 
 - Redux is used only for player part also please note that this app is using V3 Redux.
